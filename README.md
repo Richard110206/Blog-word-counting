@@ -26,7 +26,7 @@ The tool handles both English and Chinese content, providing accurate word count
 Just clone the directory via:
 
 ```bash
-git clone https://github.com/xiyuanyang-code/Blog-word-counting.git
+git clone https://github.com/Richard110206/Blog-word-counting.git
 cd blog-word-counting
 ```
 
